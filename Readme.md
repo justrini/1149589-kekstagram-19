@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
-* Студент: [Rini Iakupov](https://up.htmlacademy.ru/javascript/19/user/1149589).
-* Наставник: `Неизвестно`.
+- Студент: [Rini Iakupov](https://up.htmlacademy.ru/javascript/19/user/1149589).
+- Наставник: [Сергей Буртылёв](https://htmlacademy.ru/profile/id3341) .
 
 ---
 
